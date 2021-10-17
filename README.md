@@ -29,6 +29,7 @@
    
     <a href = "lukas.jf92@gmail.com"></a>
     <a href="https://www.linkedin.com/in/lucas-de-sousa-gomes-13ba45197" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
 
  </div>
 
