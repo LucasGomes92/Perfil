@@ -6,7 +6,7 @@
 - 🤓 Linguagens em estudo: JavaScrip, Java, Python e C#...
 - 💬 Aprendendo sobre git e github.
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/LucasGomes92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGomes92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomes92&layout=compact&langs_count=7&theme=dark"/>
