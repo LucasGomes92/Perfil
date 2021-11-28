@@ -1,6 +1,6 @@
 ### Bem vindo(a)! Eu sou o Lucas de S. Gomes
 
-- 😎 Atualmente estagiando... Exercendo a função de Ti, onde dou suporte e melhorias no park de maquinas da empresa.
+- 😎 Atualmente estagiando... Exercendo a função de analise e manipulção de dados.
 - 🌱 Cursando o 5° na Faculdade Granbery.
 - 🙂 Aprendendo sobre front-end e back-end.
 - 🤓 Linguagens em estudo: JavaScrip, Java, Python e C#...
