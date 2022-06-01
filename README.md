@@ -1,9 +1,9 @@
 ### Bem vindo(a)! Eu sou o Lucas de S. Gomes
 
-- 😎 Atualmente estagiando... com o cargo em analise e manipulção de dados.
-- 🌱 Cursando o 5° na Faculdade Granbery.
+- 🌱 Cursando o 6° na Faculdade Granbery.
 - 🙂 Aprendendo sobre front-end e back-end.
-- 🤓 Linguagens em estudo: JavaScrip, Java, Python e C#...
+- 🤓 Linguagens em estudo: JavaScrip, Java...
+- 😎 Familiaridade em MySql, Raven, Kibana, Rabbit e Docker...
 - 💬 Aprendendo sobre git e github.
 
 <div align="left">
