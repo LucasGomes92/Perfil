@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/LucasGomes92">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGomes92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomes92&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Perfil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perfil&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@
  <div> 
    
   
-<a href = "lukas.jf92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "lucasgomes.dev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-sousa-gomes-13ba45197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    ![Snake animation](https://github.com/LucasGomes92/LucasGomes92/blob/output/github-contribution-grid-snake.svg)
